@@ -1,5 +1,4 @@
 # Clicky-Game
-* React 
+* React App
 
-* play game at: https://powerful-hollows-99625.herokuapp.com/
-[GameLink](https://powerful-hollows-99625.herokuapp.com/)
+* play game at: [GameLink](https://powerful-hollows-99625.herokuapp.com/)
