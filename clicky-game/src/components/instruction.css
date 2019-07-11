@@ -1,0 +1,21 @@
+.inst {
+    background-color: #2c323c;
+    background-image: url('../images/background.jpg');
+    background-repeat: repeat;
+    color: white;
+    min-height: 400px;
+    padding: 180px 20px;
+    padding-bottom: 140px;
+    /* text-align: center; */
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 50px;
+}
+
+/* style={{ marginTop: '10px', height: '330px', backgroundColor: '#2D323C', color: 'white' }} */

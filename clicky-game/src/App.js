@@ -1,14 +1,14 @@
-import React from 'react';
-import Header from './components/Header'
-import Instruction from './components/Instruction'
+import React from 'react'
+import Cards from './components/Cards'
+import { Provider } from './context'
 
-function App() {
+function App () {
   return (
-    <div>
-      <Header />
-      <Instruction />
-    </div>
-  );
+    <Provider> 
+      <Cards />
+    </Provider>
+
+  )
 }
 
-export default App;
+export default App
